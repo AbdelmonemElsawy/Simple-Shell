@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1570878074 source:/home/sawy/Desktop/coding/shell/main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<sys/wait.h>
+	<bits/stdc++.h>
+
